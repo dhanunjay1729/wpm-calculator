@@ -2,6 +2,10 @@
 
 A lightweight, real-time typing speed monitor that tracks your Words Per Minute (WPM) across any application on your system.
 
+## Screenshots
+
+![WPM Calculator in action](screenshot.png)
+
 ## Features
 
 - 🚀 **Real-time monitoring** - Tracks typing speed as you type in any application
