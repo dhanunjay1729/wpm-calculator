@@ -17,9 +17,11 @@ A lightweight, real-time typing speed monitor that tracks your Words Per Minute 
 
 ## Installation
 
+**Requirements:** Linux (Ubuntu/Debian) with Python 3.6+
+
 1. Clone this repository
 2. Install dependencies: `sudo pip3 install -r requirements.txt --break-system-packages`
-3. Run: `python3 wpm_calculator.py`
+3. Run: `python3 wmp_calculator.py`
 
 ## Usage
 
