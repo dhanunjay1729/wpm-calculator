@@ -31,6 +31,18 @@ A lightweight, real-time typing speed monitor that tracks your Words Per Minute 
 4. Counter resets after 5 seconds of no typing
 5. Use Reset button for manual restart
 
+## Auto-Startup Setup
+
+1. **First, complete the installation steps above**
+2. **Add user to input group:** `sudo usermod -a -G input $USER`
+3. **Reboot your system**
+4. Open "Startup Applications" from applications menu
+5. Click "Add" and fill in:
+   - **Name:** WPM Calculator
+   - **Command:** `python3 /full/path/to/your/wmp_calculator.py`
+   - **Comment:** Real-time typing speed monitor
+6. Click "Save"
+
 ## License
 
 MIT License - see LICENSE file for details.
